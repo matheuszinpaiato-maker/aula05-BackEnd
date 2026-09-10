@@ -1,8 +1,8 @@
 # aula05-BackEnd
 # API Inventário da Empresa XXX
-<li>
-  dados.json
-</li>
+
+- dados.json
+``` JSON
 [
   {
     "id": 1,
@@ -29,3 +29,4 @@
     "patrimonio": "PAT-00127"
   }
 ]
+```
