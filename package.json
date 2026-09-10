@@ -1,0 +1,16 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "Inventario da Empresa xxx",
+  "main": "servidor/server.js",
+  "scripts": {
+    "dev": "node servidor/server.js"
+  },
+  "keywords": [],
+  "author": "Matheus Dorigan Paiato",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
