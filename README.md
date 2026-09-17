@@ -1,5 +1,5 @@
 # aula05-BackEnd
-# API Inventário da Empresa "Bom de Tecnologia"
+# API Inventário da Empresa "Bons de Tecnologia"
 
 - dados.JSON
 ``` JSON
